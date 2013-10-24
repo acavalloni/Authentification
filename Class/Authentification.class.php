@@ -1,6 +1,7 @@
 <?php 
 	//Made by Anthony Cavalloni
     //Gestion du grain de sel et tout ça
+    //test push
 	class Authentification{
 
         private $db;
